@@ -1,0 +1,55 @@
+{
+  "title": "Pandora's Islands V13",
+  "id": "pandoras-islands-v13",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "13.342",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.342"
+  },
+  "systemVersion": "5.0.3",
+  "lastPlayed": "Tue Jun 03 2025 14:47:16 GMT+0100 (British Summer Time)",
+  "packs": [
+    {
+      "label": "OldActors",
+      "type": "Actor",
+      "name": "oldactors",
+      "path": "packs/oldactors",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "OldItems",
+      "type": "Item",
+      "name": "olditems",
+      "path": "packs/olditems",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "OldScenes",
+      "type": "Scene",
+      "name": "oldscenes",
+      "path": "packs/oldscenes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 33026,
+  "description": "<p>What is it you all wish for? Fame, money, glamour, hot chicks and men? It all can happen in this part of the world. From the high tides of the sea to the thick, and brushy jungle deep in the Yuan-ti area. You all can trust each other, trust other people you have met or about to meet, or… You can cold blooded kill each other. After all, these are the seas of the pirate kings and queens! You are treading on deep water, my friends.</p>",
+  "background": "worlds/plom/Patus.jpg",
+  "resetKeys": false
+}
