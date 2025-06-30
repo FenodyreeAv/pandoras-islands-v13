@@ -3,13 +3,13 @@
   "id": "pandoras-islands-v13",
   "system": "dnd5e",
   "joinTheme": "default",
-  "coreVersion": "13.344",
+  "coreVersion": "13.345",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.344"
+    "verified": "13.345"
   },
   "systemVersion": "5.0.3",
-  "lastPlayed": "Mon Jun 23 2025 16:11:12 GMT+0200 (sentraleuropeisk sommertid)",
+  "lastPlayed": "Sun Jun 29 2025 17:49:32 GMT+0200 (sentraleuropeisk sommertid)",
   "packs": [
     {
       "label": "OldActors",
@@ -48,7 +48,7 @@
       "flags": {}
     }
   ],
-  "playtime": 44688,
+  "playtime": 54601,
   "description": "<p>What is it you all wish for? Fame, money, glamour, hot chicks and men? It all can happen in this part of the world. From the high tides of the sea to the thick, and brushy jungle deep in the Yuan-ti area. You all can trust each other, trust other people you have met or about to meet, or… You can cold blooded kill each other. After all, these are the seas of the pirate kings and queens! You are treading on deep water, my friends.</p>",
   "background": "worlds/plom/Patus.jpg",
   "resetKeys": false

@@ -1,7 +1,5 @@
-2025/06/23-12:53:00.419 35dc Recovering log #404
-2025/06/23-12:53:00.434 35dc Delete type=0 #404
-2025/06/23-12:53:00.435 35dc Delete type=3 #403
-2025/06/23-16:07:11.534 22d0 Level-0 table #408: started
-2025/06/23-16:07:11.534 22d0 Level-0 table #408: 0 bytes OK
-2025/06/23-16:07:11.538 22d0 Delete type=0 #406
-2025/06/23-16:07:11.544 22d0 Manual compaction at level-0 from '!cards!nyaXliFqTjl48xch' @ 72057594037927935 : 1 .. '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 0 : 0; will stop at (end)
+2025/06/29-13:29:31.709 4980 Recovering log #413
+2025/06/29-13:29:31.715 4980 Delete type=0 #410
+2025/06/29-13:29:31.716 4980 Delete type=0 #413
+2025/06/29-13:29:31.716 4980 Delete type=3 #409
+2025/06/29-13:29:31.716 4980 Delete type=3 #411
