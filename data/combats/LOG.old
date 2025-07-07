@@ -1,3 +1,13 @@
-2025/06/30-17:34:14.644 4b24 Recovering log #446
-2025/06/30-17:34:14.655 4b24 Delete type=0 #446
-2025/06/30-17:34:14.655 4b24 Delete type=3 #444
+2025/07/07-17:12:12.907 3174 Recovering log #458
+2025/07/07-17:12:12.914 3174 Delete type=0 #458
+2025/07/07-17:12:12.914 3174 Delete type=3 #457
+2025/07/07-17:38:37.920 65ac Level-0 table #462: started
+2025/07/07-17:38:37.920 65ac Level-0 table #462: 0 bytes OK
+2025/07/07-17:38:37.922 65ac Delete type=0 #460
+2025/07/07-17:38:37.922 65ac Manual compaction at level-0 from '!combats!UrlFcuItQUtr1rv3' @ 72057594037927935 : 1 .. '!combats!wWV3gE4X0AfKhZlM' @ 0 : 0; will stop at '!combats!wWV3gE4X0AfKhZlM' @ 152 : 1
+2025/07/07-17:38:37.922 65ac Compacting 1@0 + 0@1 files
+2025/07/07-17:38:37.935 65ac Generated table #463@0: 2 keys, 640 bytes
+2025/07/07-17:38:37.935 65ac Compacted 1@0 + 0@1 files => 640 bytes
+2025/07/07-17:38:37.938 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/07-17:38:37.939 65ac Delete type=2 #443
+2025/07/07-17:38:37.947 65ac Manual compaction at level-0 from '!combats!wWV3gE4X0AfKhZlM' @ 152 : 1 .. '!combats!wWV3gE4X0AfKhZlM' @ 0 : 0; will stop at (end)

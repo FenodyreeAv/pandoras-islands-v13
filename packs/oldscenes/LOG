@@ -1,3 +1,7 @@
-2025/06/30-17:40:38.822 3ea4 Recovering log #442
-2025/06/30-17:40:38.834 3ea4 Delete type=0 #442
-2025/06/30-17:40:38.834 3ea4 Delete type=3 #441
+2025/07/07-17:39:34.723 35e8 Recovering log #454
+2025/07/07-17:39:34.729 35e8 Delete type=0 #454
+2025/07/07-17:39:34.729 35e8 Delete type=3 #452
+2025/07/07-17:57:46.386 65ac Level-0 table #460: started
+2025/07/07-17:57:46.386 65ac Level-0 table #460: 0 bytes OK
+2025/07/07-17:57:46.388 65ac Delete type=0 #458
+2025/07/07-17:57:46.388 65ac Manual compaction at level-0 from '!folders!3nXp6ZXGaMFOpgwr' @ 72057594037927935 : 1 .. '!scenes.walls!xpLXOIG0ATW5giv8.zK2VvSE5YaPWIg0c' @ 0 : 0; will stop at (end)
