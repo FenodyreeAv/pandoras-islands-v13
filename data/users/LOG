@@ -1,7 +1,1 @@
-2025/07/07-17:39:34.094 35e8 Recovering log #471
-2025/07/07-17:39:34.101 35e8 Delete type=0 #471
-2025/07/07-17:39:34.101 35e8 Delete type=3 #467
-2025/07/07-17:57:46.992 65ac Level-0 table #477: started
-2025/07/07-17:57:46.992 65ac Level-0 table #477: 0 bytes OK
-2025/07/07-17:57:46.996 65ac Delete type=0 #475
-2025/07/07-17:57:47.020 65ac Manual compaction at level-0 from '!users!K0CvUC30fp9NHMU0' @ 72057594037927935 : 1 .. '!users!kGQO6MdnY80xaADR' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.790 68bc Delete type=3 #1

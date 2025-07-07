@@ -1,13 +1,5 @@
-2025/07/07-17:12:14.114 35e8 Recovering log #439
-2025/07/07-17:12:14.122 35e8 Delete type=0 #439
-2025/07/07-17:12:14.122 35e8 Delete type=3 #438
-2025/07/07-17:38:37.414 65ac Level-0 table #443: started
-2025/07/07-17:38:37.414 65ac Level-0 table #443: 0 bytes OK
-2025/07/07-17:38:37.417 65ac Delete type=0 #441
-2025/07/07-17:38:37.425 65ac Manual compaction at level-0 from '!folders!ARd6nP9NR9nP48nk' @ 72057594037927935 : 1 .. '!items!xe2ofp14IfuDqf5M' @ 0 : 0; will stop at '!items!xe2ofp14IfuDqf5M' @ 73 : 1
-2025/07/07-17:38:37.425 65ac Compacting 1@0 + 0@1 files
-2025/07/07-17:38:37.429 65ac Generated table #444@0: 26 keys, 41235 bytes
-2025/07/07-17:38:37.429 65ac Compacted 1@0 + 0@1 files => 41235 bytes
-2025/07/07-17:38:37.432 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:37.433 65ac Delete type=2 #424
-2025/07/07-17:38:37.473 65ac Manual compaction at level-0 from '!items!xe2ofp14IfuDqf5M' @ 73 : 1 .. '!items!xe2ofp14IfuDqf5M' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:08.364 3a30 Log #447: 0 ops saved to Table #448 OK
+2025/07/07-17:00:08.365 3a30 Archiving ..\Data\worlds\pandoras-islands-v13\packs\olditems/000447.log: OK
+2025/07/07-17:00:08.365 3a30 Table #444: 26 entries OK
+2025/07/07-17:00:08.371 3a30 Archiving ..\Data\worlds\pandoras-islands-v13\packs\olditems/MANIFEST-000445: OK
+2025/07/07-17:00:08.379 3a30 **** Repaired leveldb ..\Data\worlds\pandoras-islands-v13\packs\olditems; recovered 1 files; 41235 bytes. Some data may have been lost. ****

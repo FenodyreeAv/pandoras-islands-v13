@@ -1,7 +1,5 @@
-2025/07/07-17:12:12.877 1ff8 Recovering log #556
-2025/07/07-17:12:12.884 1ff8 Delete type=0 #556
-2025/07/07-17:12:12.884 1ff8 Delete type=3 #554
-2025/07/07-17:38:37.917 65ac Level-0 table #561: started
-2025/07/07-17:38:37.917 65ac Level-0 table #561: 0 bytes OK
-2025/07/07-17:38:37.920 65ac Delete type=0 #559
-2025/07/07-17:38:37.922 65ac Manual compaction at level-0 from '!messages!0YmPVxdS1eKIHoor' @ 72057594037927935 : 1 .. '!messages!vzfQNBlXvm3iwgZK' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.362 5b58 Log #564: 0 ops saved to Table #567 OK
+2025/07/07-17:00:07.362 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/000564.log: OK
+2025/07/07-17:00:07.363 5b58 Table #566: 40 entries OK
+2025/07/07-17:00:07.368 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/MANIFEST-000562: OK
+2025/07/07-17:00:07.375 5b58 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/messages; recovered 1 files; 37995 bytes. Some data may have been lost. ****

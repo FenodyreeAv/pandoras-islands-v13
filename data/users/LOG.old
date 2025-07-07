@@ -1,24 +1,5 @@
-2025/07/07-17:12:13.312 1ff8 Recovering log #466
-2025/07/07-17:12:13.312 1ff8 Level-0 table #468: started
-2025/07/07-17:12:13.340 1ff8 Level-0 table #468: 985 bytes OK
-2025/07/07-17:12:13.346 1ff8 Delete type=0 #466
-2025/07/07-17:12:13.346 1ff8 Delete type=3 #465
-2025/07/07-17:12:13.347 65ac Compacting 4@0 + 0@1 files
-2025/07/07-17:12:13.361 65ac Generated table #470@0: 6 keys, 3523 bytes
-2025/07/07-17:12:13.361 65ac Compacted 4@0 + 0@1 files => 3523 bytes
-2025/07/07-17:12:13.364 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:12:13.365 65ac Delete type=2 #454
-2025/07/07-17:12:13.365 65ac Delete type=2 #458
-2025/07/07-17:12:13.365 65ac Delete type=2 #460
-2025/07/07-17:12:13.365 65ac Delete type=2 #468
-2025/07/07-17:38:38.031 65ac Level-0 table #472: started
-2025/07/07-17:38:38.042 65ac Level-0 table #472: 3233 bytes OK
-2025/07/07-17:38:38.045 65ac Delete type=0 #469
-2025/07/07-17:38:38.353 65ac Manual compaction at level-0 from '!users!K0CvUC30fp9NHMU0' @ 72057594037927935 : 1 .. '!users!kGQO6MdnY80xaADR' @ 0 : 0; will stop at '!users!jmOEqZoLhqKo3kkA' @ 326 : 1
-2025/07/07-17:38:38.353 65ac Compacting 1@0 + 1@1 files
-2025/07/07-17:38:38.363 65ac Generated table #473@0: 6 keys, 3578 bytes
-2025/07/07-17:38:38.363 65ac Compacted 1@0 + 1@1 files => 3578 bytes
-2025/07/07-17:38:38.364 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:38.365 65ac Delete type=2 #470
-2025/07/07-17:38:38.365 65ac Delete type=2 #472
-2025/07/07-17:38:38.382 65ac Manual compaction at level-0 from '!users!jmOEqZoLhqKo3kkA' @ 326 : 1 .. '!users!kGQO6MdnY80xaADR' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.764 68bc Log #476: 0 ops saved to Table #477 OK
+2025/07/07-17:00:07.764 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/users/000476.log: OK
+2025/07/07-17:00:07.764 68bc Table #473: 6 entries OK
+2025/07/07-17:00:07.769 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/users/MANIFEST-000474: OK
+2025/07/07-17:00:07.777 68bc **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/users; recovered 1 files; 3578 bytes. Some data may have been lost. ****

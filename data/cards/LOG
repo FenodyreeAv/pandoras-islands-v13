@@ -1,7 +1,1 @@
-2025/07/07-17:39:33.928 1ff8 Recovering log #442
-2025/07/07-17:39:33.936 1ff8 Delete type=0 #442
-2025/07/07-17:39:33.936 1ff8 Delete type=3 #440
-2025/07/07-17:57:46.519 65ac Level-0 table #448: started
-2025/07/07-17:57:46.519 65ac Level-0 table #448: 0 bytes OK
-2025/07/07-17:57:46.523 65ac Delete type=0 #446
-2025/07/07-17:57:46.554 65ac Manual compaction at level-0 from '!cards!nyaXliFqTjl48xch' @ 72057594037927935 : 1 .. '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.356 68bc Delete type=3 #1

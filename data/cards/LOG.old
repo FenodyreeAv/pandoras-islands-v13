@@ -1,13 +1,5 @@
-2025/07/07-17:12:12.848 48d8 Recovering log #439
-2025/07/07-17:12:12.855 48d8 Delete type=0 #439
-2025/07/07-17:12:12.855 48d8 Delete type=3 #438
-2025/07/07-17:38:37.569 65ac Level-0 table #443: started
-2025/07/07-17:38:37.569 65ac Level-0 table #443: 0 bytes OK
-2025/07/07-17:38:37.573 65ac Delete type=0 #441
-2025/07/07-17:38:37.585 65ac Manual compaction at level-0 from '!cards!nyaXliFqTjl48xch' @ 72057594037927935 : 1 .. '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 0 : 0; will stop at '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 147 : 1
-2025/07/07-17:38:37.585 65ac Compacting 1@0 + 0@1 files
-2025/07/07-17:38:37.591 65ac Generated table #444@0: 53 keys, 9478 bytes
-2025/07/07-17:38:37.591 65ac Compacted 1@0 + 0@1 files => 9478 bytes
-2025/07/07-17:38:37.593 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:37.594 65ac Delete type=2 #424
-2025/07/07-17:38:37.922 65ac Manual compaction at level-0 from '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 147 : 1 .. '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.329 68bc Log #447: 0 ops saved to Table #448 OK
+2025/07/07-17:00:07.330 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/cards/000447.log: OK
+2025/07/07-17:00:07.330 68bc Table #444: 53 entries OK
+2025/07/07-17:00:07.335 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/cards/MANIFEST-000445: OK
+2025/07/07-17:00:07.343 68bc **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/cards; recovered 1 files; 9478 bytes. Some data may have been lost. ****

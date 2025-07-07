@@ -1,22 +1,5 @@
-2025/07/07-17:12:13.200 3174 Recovering log #613
-2025/07/07-17:12:13.200 3174 Level-0 table #616: started
-2025/07/07-17:12:13.204 3174 Level-0 table #616: 6747 bytes OK
-2025/07/07-17:12:13.212 3174 Delete type=0 #613
-2025/07/07-17:12:13.212 3174 Delete type=3 #611
-2025/07/07-17:12:13.691 65ac Compacting 1@0 + 1@1 files
-2025/07/07-17:12:13.701 65ac Generated table #618@0: 1453 keys, 520094 bytes
-2025/07/07-17:12:13.701 65ac Compacted 1@0 + 1@1 files => 520094 bytes
-2025/07/07-17:12:13.703 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:12:13.703 65ac Delete type=2 #614
-2025/07/07-17:12:13.703 65ac Delete type=2 #616
-2025/07/07-17:38:37.988 65ac Level-0 table #620: started
-2025/07/07-17:38:37.999 65ac Level-0 table #620: 2445 bytes OK
-2025/07/07-17:38:38.002 65ac Delete type=0 #617
-2025/07/07-17:38:38.016 65ac Manual compaction at level-0 from '!scenes!3i69rxqkFmgtWReH' @ 72057594037927935 : 1 .. '!scenes.walls!gu3hTJpxVHZcjtzy.zpTGnSBMeSQaUaLx' @ 0 : 0; will stop at '!scenes.tokens.delta!c3IYqEWNoEMJ8ude.Cky5kHCTKaRqprBl.ZDcCFbwx3ZUkBBPr' @ 35112 : 0
-2025/07/07-17:38:38.016 65ac Compacting 1@0 + 1@1 files
-2025/07/07-17:38:38.027 65ac Generated table #621@0: 1451 keys, 519750 bytes
-2025/07/07-17:38:38.027 65ac Compacted 1@0 + 1@1 files => 519750 bytes
-2025/07/07-17:38:38.029 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:38.029 65ac Delete type=2 #618
-2025/07/07-17:38:38.029 65ac Delete type=2 #620
-2025/07/07-17:38:38.045 65ac Manual compaction at level-0 from '!scenes.tokens.delta!c3IYqEWNoEMJ8ude.Cky5kHCTKaRqprBl.ZDcCFbwx3ZUkBBPr' @ 35112 : 0 .. '!scenes.walls!gu3hTJpxVHZcjtzy.zpTGnSBMeSQaUaLx' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.683 3de4 Log #624: 0 ops saved to Table #627 OK
+2025/07/07-17:00:07.684 3de4 Archiving ../Data/worlds/pandoras-islands-v13/data/scenes/000624.log: OK
+2025/07/07-17:00:07.686 3de4 Table #626: 1479 entries OK
+2025/07/07-17:00:07.691 3de4 Archiving ../Data/worlds/pandoras-islands-v13/data/scenes/MANIFEST-000622: OK
+2025/07/07-17:00:07.698 3de4 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/scenes; recovered 1 files; 528135 bytes. Some data may have been lost. ****

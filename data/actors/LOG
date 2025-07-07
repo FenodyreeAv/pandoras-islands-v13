@@ -1,18 +1,27 @@
-2025/07/07-17:39:33.868 35e8 Recovering log #677
-2025/07/07-17:39:33.874 35e8 Delete type=0 #677
-2025/07/07-17:39:33.874 35e8 Delete type=3 #671
-2025/07/07-17:57:46.523 65ac Level-0 table #685: started
-2025/07/07-17:57:46.531 65ac Level-0 table #685: 552936 bytes OK
-2025/07/07-17:57:46.533 65ac Delete type=0 #683
-2025/07/07-17:57:46.554 65ac Manual compaction at level-0 from '!actors!0MyLSTc2ltTc4UAV' @ 72057594037927935 : 1 .. '!actors.items.effects!vL2Jzk8j4Nb47hYZ.cctMUXgDTEVX6IKt.vfSQFxJ7Y3dc2ZFT' @ 0 : 0; will stop at '!actors.items.effects!T0hjKh7rUhadyyf6.w4Ir1WcKwoskWuEr.evardsBlackTenta' @ 38029 : 1
-2025/07/07-17:57:46.554 65ac Compacting 1@0 + 3@1 files
-2025/07/07-17:57:46.594 65ac Generated table #686@0: 1046 keys, 2128296 bytes
-2025/07/07-17:57:46.879 65ac Generated table #687@0: 1207 keys, 2127378 bytes
-2025/07/07-17:57:46.937 65ac Generated table #688@0: 732 keys, 919338 bytes
-2025/07/07-17:57:46.937 65ac Compacted 1@0 + 3@1 files => 5175012 bytes
-2025/07/07-17:57:46.939 65ac compacted to: files[ 0 3 0 0 0 0 0 ]
-2025/07/07-17:57:46.939 65ac Delete type=2 #679
-2025/07/07-17:57:46.940 65ac Delete type=2 #680
-2025/07/07-17:57:46.941 65ac Delete type=2 #681
-2025/07/07-17:57:46.941 65ac Delete type=2 #685
-2025/07/07-17:57:46.962 65ac Manual compaction at level-0 from '!actors.items.effects!T0hjKh7rUhadyyf6.w4Ir1WcKwoskWuEr.evardsBlackTenta' @ 38029 : 1 .. '!actors.items.effects!vL2Jzk8j4Nb47hYZ.cctMUXgDTEVX6IKt.vfSQFxJ7Y3dc2ZFT' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.290 5b58 Delete type=3 #1
+2025/07/07-18:46:53.673 3f4c Level-0 table #693: started
+2025/07/07-18:46:53.731 3f4c Level-0 table #693: 2204522 bytes OK
+2025/07/07-18:46:53.736 3f4c Delete type=0 #691
+2025/07/07-18:46:53.738 3f4c Compacting 4@0 + 0@1 files
+2025/07/07-18:46:53.776 3f4c Generated table #694@0: 1056 keys, 2122864 bytes
+2025/07/07-18:46:53.981 3f4c Generated table #695@0: 1222 keys, 2125711 bytes
+2025/07/07-18:46:54.034 3f4c Generated table #696@0: 753 keys, 976030 bytes
+2025/07/07-18:46:54.034 3f4c Compacted 4@0 + 0@1 files => 5224605 bytes
+2025/07/07-18:46:54.036 3f4c compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/07/07-18:46:54.036 3f4c Delete type=2 #686
+2025/07/07-18:46:54.037 3f4c Delete type=2 #687
+2025/07/07-18:46:54.037 3f4c Delete type=2 #688
+2025/07/07-18:46:54.037 3f4c Delete type=2 #693
+2025/07/07-20:04:18.237 3f4c Level-0 table #698: started
+2025/07/07-20:04:18.317 3f4c Level-0 table #698: 2152215 bytes OK
+2025/07/07-20:04:18.321 3f4c Delete type=0 #692
+2025/07/07-20:04:23.966 3f4c Compacting 1@0 + 3@1 files
+2025/07/07-20:04:24.006 3f4c Generated table #699@0: 1055 keys, 2122283 bytes
+2025/07/07-20:04:24.235 3f4c Generated table #700@0: 1215 keys, 2123699 bytes
+2025/07/07-20:04:24.337 3f4c Generated table #701@0: 1072 keys, 1587462 bytes
+2025/07/07-20:04:24.337 3f4c Compacted 1@0 + 3@1 files => 5833444 bytes
+2025/07/07-20:04:24.340 3f4c compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/07/07-20:04:24.341 3f4c Delete type=2 #694
+2025/07/07-20:04:24.341 3f4c Delete type=2 #695
+2025/07/07-20:04:24.342 3f4c Delete type=2 #696
+2025/07/07-20:04:24.342 3f4c Delete type=2 #698

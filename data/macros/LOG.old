@@ -1,13 +1,5 @@
-2025/07/07-17:12:13.079 48d8 Recovering log #450
-2025/07/07-17:12:13.085 48d8 Delete type=0 #450
-2025/07/07-17:12:13.085 48d8 Delete type=3 #449
-2025/07/07-17:38:37.967 65ac Level-0 table #454: started
-2025/07/07-17:38:37.967 65ac Level-0 table #454: 0 bytes OK
-2025/07/07-17:38:37.971 65ac Delete type=0 #452
-2025/07/07-17:38:38.002 65ac Manual compaction at level-0 from '!macros!DFaaI7O7MW1m6U4x' @ 72057594037927935 : 1 .. '!macros!zttkN7MpcFg25BLv' @ 0 : 0; will stop at '!macros!zttkN7MpcFg25BLv' @ 42 : 1
-2025/07/07-17:38:38.002 65ac Compacting 1@0 + 0@1 files
-2025/07/07-17:38:38.013 65ac Generated table #455@0: 17 keys, 3867 bytes
-2025/07/07-17:38:38.013 65ac Compacted 1@0 + 0@1 files => 3867 bytes
-2025/07/07-17:38:38.015 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:38.015 65ac Delete type=2 #435
-2025/07/07-17:38:38.029 65ac Manual compaction at level-0 from '!macros!zttkN7MpcFg25BLv' @ 42 : 1 .. '!macros!zttkN7MpcFg25BLv' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.568 5b58 Log #458: 0 ops saved to Table #459 OK
+2025/07/07-17:00:07.568 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/macros/000458.log: OK
+2025/07/07-17:00:07.568 5b58 Table #455: 17 entries OK
+2025/07/07-17:00:07.573 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/macros/MANIFEST-000456: OK
+2025/07/07-17:00:07.580 5b58 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/macros; recovered 1 files; 3867 bytes. Some data may have been lost. ****

@@ -1,8 +1,9 @@
-2025/07/07-17:39:34.558 3174 Recovering log #700
-2025/07/07-17:39:34.564 3174 Delete type=0 #700
-2025/07/07-17:39:34.564 3174 Delete type=3 #698
-2025/07/07-17:57:46.378 65ac Level-0 table #715: started
-2025/07/07-17:57:46.378 65ac Level-0 table #715: 0 bytes OK
-2025/07/07-17:57:46.381 65ac Delete type=0 #713
-2025/07/07-17:57:46.388 65ac Manual compaction at level-0 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
-2025/07/07-17:57:46.388 65ac Manual compaction at level-1 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:08.251 68bc Delete type=3 #1
+2025/07/07-17:00:08.254 3f4c Moved #612 to level-1 2122846 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2025/07/07-17:00:08.256 3f4c Moved #613 to level-1 2124239 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2025/07/07-17:00:08.258 3f4c Moved #705 to level-1 2125562 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2025/07/07-17:00:08.260 3f4c Moved #706 to level-1 2124301 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2025/07/07-17:00:08.262 3f4c Moved #707 to level-1 2124338 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2025/07/07-17:00:08.264 3f4c Moved #612 to level-2 2122846 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2025/07/07-17:00:08.266 3f4c Moved #708 to level-1 2122764 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2025/07/07-17:00:08.268 3f4c Moved #613 to level-2 2124239 bytes OK: files[ 3 4 2 0 0 0 0 ]

@@ -1,13 +1,5 @@
-2025/07/07-17:12:12.943 1ff8 Recovering log #485
-2025/07/07-17:12:12.950 1ff8 Delete type=0 #485
-2025/07/07-17:12:12.950 1ff8 Delete type=3 #484
-2025/07/07-17:38:37.939 65ac Level-0 table #489: started
-2025/07/07-17:38:37.939 65ac Level-0 table #489: 0 bytes OK
-2025/07/07-17:38:37.941 65ac Delete type=0 #487
-2025/07/07-17:38:37.947 65ac Manual compaction at level-0 from '!fog!2Nurz88GW7GHGs8k' @ 72057594037927935 : 1 .. '!fog!yLjOc0Su0lOckvvN' @ 0 : 0; will stop at '!fog!yLjOc0Su0lOckvvN' @ 686 : 1
-2025/07/07-17:38:37.947 65ac Compacting 1@0 + 0@1 files
-2025/07/07-17:38:37.954 65ac Generated table #490@0: 26 keys, 865403 bytes
-2025/07/07-17:38:37.954 65ac Compacted 1@0 + 0@1 files => 865403 bytes
-2025/07/07-17:38:37.956 65ac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/07-17:38:37.957 65ac Delete type=2 #470
-2025/07/07-17:38:37.967 65ac Manual compaction at level-0 from '!fog!yLjOc0Su0lOckvvN' @ 686 : 1 .. '!fog!yLjOc0Su0lOckvvN' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.427 5b58 Log #493: 0 ops saved to Table #494 OK
+2025/07/07-17:00:07.427 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/fog/000493.log: OK
+2025/07/07-17:00:07.428 5b58 Table #490: 26 entries OK
+2025/07/07-17:00:07.433 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/fog/MANIFEST-000491: OK
+2025/07/07-17:00:07.441 5b58 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/fog; recovered 1 files; 865403 bytes. Some data may have been lost. ****

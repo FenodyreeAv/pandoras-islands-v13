@@ -1,60 +1,13 @@
-2025/07/07-17:12:13.754 1ff8 Recovering log #697
-2025/07/07-17:12:13.759 1ff8 Delete type=0 #697
-2025/07/07-17:12:13.759 1ff8 Delete type=3 #696
-2025/07/07-17:38:38.029 65ac Level-0 table #701: started
-2025/07/07-17:38:38.030 65ac Level-0 table #701: 0 bytes OK
-2025/07/07-17:38:38.031 65ac Delete type=0 #699
-2025/07/07-17:38:38.045 65ac Manual compaction at level-0 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1
-2025/07/07-17:38:38.045 65ac Compacting 3@0 + 0@1 files
-2025/07/07-17:38:38.191 65ac Generated table #702@0: 1076 keys, 2124059 bytes
-2025/07/07-17:38:38.329 65ac Generated table #703@0: 1120 keys, 2123031 bytes
-2025/07/07-17:38:38.336 65ac Generated table #704@0: 360 keys, 118833 bytes
-2025/07/07-17:38:38.336 65ac Compacted 3@0 + 0@1 files => 4365923 bytes
-2025/07/07-17:38:38.337 65ac compacted to: files[ 0 7 2 0 0 0 0 ]
-2025/07/07-17:38:38.338 65ac Delete type=2 #680
-2025/07/07-17:38:38.339 65ac Delete type=2 #681
-2025/07/07-17:38:38.339 65ac Delete type=2 #682
-2025/07/07-17:38:38.368 65ac Manual compaction at level-0 from '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
-2025/07/07-17:38:38.382 65ac Manual compaction at level-1 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!FDHmrYfxOr1Bk8wn.sdWUJOsjcHXCfHxk' @ 25040 : 1
-2025/07/07-17:38:38.382 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:38.659 65ac Generated table #705@1: 1035 keys, 2125562 bytes
-2025/07/07-17:38:38.660 65ac Compacted 1@1 + 0@2 files => 2125562 bytes
-2025/07/07-17:38:38.661 65ac compacted to: files[ 0 6 3 0 0 0 0 ]
-2025/07/07-17:38:38.662 65ac Delete type=2 #614
-2025/07/07-17:38:38.662 65ac Manual compaction at level-1 from '!actors.items!FDHmrYfxOr1Bk8wn.sdWUJOsjcHXCfHxk' @ 25040 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!RV0rsLVObnwXsm76.DiTDaMyu3XSOa0AB' @ 26257 : 1
-2025/07/07-17:38:38.662 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:38.839 65ac Generated table #706@1: 1119 keys, 2124301 bytes
-2025/07/07-17:38:38.839 65ac Compacted 1@1 + 0@2 files => 2124301 bytes
-2025/07/07-17:38:38.840 65ac compacted to: files[ 0 5 4 0 0 0 0 ]
-2025/07/07-17:38:38.840 65ac Delete type=2 #677
-2025/07/07-17:38:38.841 65ac Manual compaction at level-1 from '!actors.items!RV0rsLVObnwXsm76.DiTDaMyu3XSOa0AB' @ 26257 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!aQGUoQvlDeSDx7iv.7S21fFeDdxmHHKvy' @ 27670 : 1
-2025/07/07-17:38:38.841 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:38.995 65ac Generated table #707@1: 1086 keys, 2124338 bytes
-2025/07/07-17:38:38.995 65ac Compacted 1@1 + 0@2 files => 2124338 bytes
-2025/07/07-17:38:38.997 65ac compacted to: files[ 0 4 5 0 0 0 0 ]
-2025/07/07-17:38:38.997 65ac Delete type=2 #678
-2025/07/07-17:38:38.997 65ac Manual compaction at level-1 from '!actors.items!aQGUoQvlDeSDx7iv.7S21fFeDdxmHHKvy' @ 27670 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!gz68men2WWrhCT8z.dKSzNuPA2SUK81RD' @ 28556 : 1
-2025/07/07-17:38:38.997 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:39.119 65ac Generated table #708@1: 1067 keys, 2122764 bytes
-2025/07/07-17:38:39.119 65ac Compacted 1@1 + 0@2 files => 2122764 bytes
-2025/07/07-17:38:39.120 65ac compacted to: files[ 0 3 6 0 0 0 0 ]
-2025/07/07-17:38:39.121 65ac Delete type=2 #679
-2025/07/07-17:38:39.121 65ac Manual compaction at level-1 from '!actors.items!gz68men2WWrhCT8z.dKSzNuPA2SUK81RD' @ 28556 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!t9islOjpWOSDn6mu.eBOl5VHlws1TqjBi' @ 29677 : 1
-2025/07/07-17:38:39.121 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:39.291 65ac Generated table #709@1: 1076 keys, 2124059 bytes
-2025/07/07-17:38:39.291 65ac Compacted 1@1 + 0@2 files => 2124059 bytes
-2025/07/07-17:38:39.294 65ac compacted to: files[ 0 2 7 0 0 0 0 ]
-2025/07/07-17:38:39.294 65ac Delete type=2 #702
-2025/07/07-17:38:39.294 65ac Manual compaction at level-1 from '!actors.items!t9islOjpWOSDn6mu.eBOl5VHlws1TqjBi' @ 29677 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items.effects!2uNtkVLnMF0vDWpG.s2lO4mzgmfOgeu5d.dNSELIYDQMBopj0Z' @ 31639 : 1
-2025/07/07-17:38:39.294 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:39.473 65ac Generated table #710@1: 1120 keys, 2123031 bytes
-2025/07/07-17:38:39.473 65ac Compacted 1@1 + 0@2 files => 2123031 bytes
-2025/07/07-17:38:39.475 65ac compacted to: files[ 0 1 8 0 0 0 0 ]
-2025/07/07-17:38:39.475 65ac Delete type=2 #703
-2025/07/07-17:38:39.475 65ac Manual compaction at level-1 from '!actors.items.effects!2uNtkVLnMF0vDWpG.s2lO4mzgmfOgeu5d.dNSELIYDQMBopj0Z' @ 31639 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1
-2025/07/07-17:38:39.475 65ac Compacting 1@1 + 0@2 files
-2025/07/07-17:38:39.484 65ac Generated table #711@1: 360 keys, 118833 bytes
-2025/07/07-17:38:39.484 65ac Compacted 1@1 + 0@2 files => 118833 bytes
-2025/07/07-17:38:39.485 65ac compacted to: files[ 0 0 9 0 0 0 0 ]
-2025/07/07-17:38:39.486 65ac Delete type=2 #704
-2025/07/07-17:38:39.486 65ac Manual compaction at level-1 from '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:08.076 68bc Log #714: 0 ops saved to Table #715 OK
+2025/07/07-17:00:08.077 68bc Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/000714.log: OK
+2025/07/07-17:00:08.090 68bc Table #612: 838 entries OK
+2025/07/07-17:00:08.193 68bc Table #613: 1036 entries OK
+2025/07/07-17:00:08.199 68bc Table #705: 1035 entries OK
+2025/07/07-17:00:08.204 68bc Table #706: 1119 entries OK
+2025/07/07-17:00:08.210 68bc Table #707: 1086 entries OK
+2025/07/07-17:00:08.215 68bc Table #708: 1067 entries OK
+2025/07/07-17:00:08.220 68bc Table #709: 1076 entries OK
+2025/07/07-17:00:08.226 68bc Table #710: 1120 entries OK
+2025/07/07-17:00:08.226 68bc Table #711: 360 entries OK
+2025/07/07-17:00:08.230 68bc Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/MANIFEST-000712: OK
+2025/07/07-17:00:08.238 68bc **** Repaired leveldb ..\Data\worlds\pandoras-islands-v13\packs\oldactors; recovered 9 files; 17109973 bytes. Some data may have been lost. ****

@@ -1,7 +1,1 @@
-2025/07/07-17:39:33.966 1ff8 Recovering log #488
-2025/07/07-17:39:33.973 1ff8 Delete type=0 #488
-2025/07/07-17:39:33.973 1ff8 Delete type=3 #486
-2025/07/07-17:57:46.989 65ac Level-0 table #494: started
-2025/07/07-17:57:46.989 65ac Level-0 table #494: 0 bytes OK
-2025/07/07-17:57:46.992 65ac Delete type=0 #492
-2025/07/07-17:57:47.020 65ac Manual compaction at level-0 from '!fog!2Nurz88GW7GHGs8k' @ 72057594037927935 : 1 .. '!fog!yLjOc0Su0lOckvvN' @ 0 : 0; will stop at (end)
+2025/07/07-17:00:07.454 5b58 Delete type=3 #1
