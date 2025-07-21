@@ -1,5 +1,1 @@
-2025/07/07-17:00:07.329 68bc Log #447: 0 ops saved to Table #448 OK
-2025/07/07-17:00:07.330 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/cards/000447.log: OK
-2025/07/07-17:00:07.330 68bc Table #444: 53 entries OK
-2025/07/07-17:00:07.335 68bc Archiving ../Data/worlds/pandoras-islands-v13/data/cards/MANIFEST-000445: OK
-2025/07/07-17:00:07.343 68bc **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/cards; recovered 1 files; 9478 bytes. Some data may have been lost. ****
+2025/07/16-14:26:45.967 4af0 Delete type=3 #1

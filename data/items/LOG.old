@@ -1,5 +1,1 @@
-2025/07/07-17:00:07.493 3de4 Log #463: 0 ops saved to Table #464 OK
-2025/07/07-17:00:07.493 3de4 Archiving ../Data/worlds/pandoras-islands-v13/data/items/000463.log: OK
-2025/07/07-17:00:07.494 3de4 Table #460: 431 entries OK
-2025/07/07-17:00:07.499 3de4 Archiving ../Data/worlds/pandoras-islands-v13/data/items/MANIFEST-000461: OK
-2025/07/07-17:00:07.506 3de4 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/items; recovered 1 files; 285496 bytes. Some data may have been lost. ****
+2025/07/16-14:26:46.719 104 Delete type=3 #1

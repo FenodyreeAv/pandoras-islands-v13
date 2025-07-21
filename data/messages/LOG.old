@@ -1,5 +1,1 @@
-2025/07/07-17:00:07.362 5b58 Log #564: 0 ops saved to Table #567 OK
-2025/07/07-17:00:07.362 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/000564.log: OK
-2025/07/07-17:00:07.363 5b58 Table #566: 40 entries OK
-2025/07/07-17:00:07.368 5b58 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/MANIFEST-000562: OK
-2025/07/07-17:00:07.375 5b58 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/messages; recovered 1 files; 37995 bytes. Some data may have been lost. ****
+2025/07/16-14:26:46.273 4af0 Delete type=3 #1
