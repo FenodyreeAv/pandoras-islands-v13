@@ -1,13 +1,14 @@
-2025/07/29-20:51:28.449 3a94 Recovering log #575
-2025/07/29-20:51:28.449 3a94 Level-0 table #577: started
-2025/07/29-20:51:28.454 3a94 Level-0 table #577: 12277 bytes OK
-2025/07/29-20:51:28.463 3a94 Delete type=0 #575
-2025/07/29-20:51:28.464 3a94 Delete type=3 #573
-2025/07/29-20:51:28.465 3074 Compacting 4@0 + 0@1 files
-2025/07/29-20:51:28.517 3074 Generated table #579@0: 387 keys, 533899 bytes
-2025/07/29-20:51:28.517 3074 Compacted 4@0 + 0@1 files => 533899 bytes
-2025/07/29-20:51:28.520 3074 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/07/29-20:51:28.521 3074 Delete type=2 #566
-2025/07/29-20:51:28.521 3074 Delete type=2 #570
-2025/07/29-20:51:28.521 3074 Delete type=2 #574
-2025/07/29-20:51:28.522 3074 Delete type=2 #577
+2025/09/15-17:35:44.941 4a50 Delete type=3 #1
+2025/09/15-17:36:59.957 998 Level-0 table #587: started
+2025/09/15-17:36:59.968 998 Level-0 table #587: 1384 bytes OK
+2025/09/15-17:36:59.973 998 Delete type=0 #585
+2025/09/15-17:36:59.979 998 Manual compaction at level-0 from '!messages!01kxF0i1YphSx1Ql' @ 72057594037927935 : 1 .. '!messages!zvqoAYoAxUXG03ro' @ 0 : 0; will stop at '!messages!l2bXsm5UbZVTxCkD' @ 15511 : 1
+2025/09/15-17:36:59.979 998 Compacting 4@0 + 0@1 files
+2025/09/15-17:36:59.994 998 Generated table #588@0: 390 keys, 536714 bytes
+2025/09/15-17:36:59.994 998 Compacted 4@0 + 0@1 files => 536714 bytes
+2025/09/15-17:36:59.998 998 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/15-17:36:59.998 998 Delete type=2 #579
+2025/09/15-17:36:59.998 998 Delete type=2 #581
+2025/09/15-17:36:59.999 998 Delete type=2 #583
+2025/09/15-17:36:59.999 998 Delete type=2 #587
+2025/09/15-17:37:00.009 998 Manual compaction at level-0 from '!messages!l2bXsm5UbZVTxCkD' @ 15511 : 1 .. '!messages!zvqoAYoAxUXG03ro' @ 0 : 0; will stop at (end)

@@ -1,3 +1,66 @@
-2025/07/29-20:51:29.747 375c Recovering log #722
-2025/07/29-20:51:29.754 375c Delete type=0 #722
-2025/07/29-20:51:29.754 375c Delete type=3 #721
+2025/09/15-17:35:46.502 4a50 Delete type=3 #1
+2025/09/15-17:35:46.504 998 Moved #612 to level-1 2122846 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2025/09/15-17:35:46.506 998 Moved #613 to level-1 2124239 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2025/09/15-17:35:46.508 998 Moved #705 to level-1 2125562 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2025/09/15-17:35:46.511 998 Moved #706 to level-1 2124301 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2025/09/15-17:35:46.513 998 Moved #707 to level-1 2124338 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2025/09/15-17:35:46.515 998 Moved #612 to level-2 2122846 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2025/09/15-17:35:46.517 998 Moved #708 to level-1 2122764 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2025/09/15-17:35:46.519 998 Moved #613 to level-2 2124239 bytes OK: files[ 3 4 2 0 0 0 0 ]
+2025/09/15-17:36:58.733 998 Level-0 table #731: started
+2025/09/15-17:36:58.733 998 Level-0 table #731: 0 bytes OK
+2025/09/15-17:36:58.735 998 Delete type=0 #729
+2025/09/15-17:36:58.743 998 Manual compaction at level-0 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1
+2025/09/15-17:36:58.743 998 Compacting 3@0 + 0@1 files
+2025/09/15-17:36:58.855 998 Generated table #732@0: 1076 keys, 2124059 bytes
+2025/09/15-17:36:58.959 998 Generated table #733@0: 1120 keys, 2123031 bytes
+2025/09/15-17:36:58.968 998 Generated table #734@0: 360 keys, 118833 bytes
+2025/09/15-17:36:58.968 998 Compacted 3@0 + 0@1 files => 4365923 bytes
+2025/09/15-17:36:58.970 998 compacted to: files[ 0 7 2 0 0 0 0 ]
+2025/09/15-17:36:58.970 998 Delete type=2 #709
+2025/09/15-17:36:58.970 998 Delete type=2 #710
+2025/09/15-17:36:58.971 998 Delete type=2 #711
+2025/09/15-17:36:58.971 998 Manual compaction at level-0 from '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
+2025/09/15-17:36:58.971 998 Manual compaction at level-1 from '!actors!054kOlQ2JqRNPawZ' @ 72057594037927935 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!FDHmrYfxOr1Bk8wn.sdWUJOsjcHXCfHxk' @ 25040 : 1
+2025/09/15-17:36:58.971 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.087 998 Generated table #735@1: 1035 keys, 2125562 bytes
+2025/09/15-17:36:59.087 998 Compacted 1@1 + 0@2 files => 2125562 bytes
+2025/09/15-17:36:59.089 998 compacted to: files[ 0 6 3 0 0 0 0 ]
+2025/09/15-17:36:59.089 998 Delete type=2 #705
+2025/09/15-17:36:59.103 998 Manual compaction at level-1 from '!actors.items!FDHmrYfxOr1Bk8wn.sdWUJOsjcHXCfHxk' @ 25040 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!RV0rsLVObnwXsm76.DiTDaMyu3XSOa0AB' @ 26257 : 1
+2025/09/15-17:36:59.103 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.193 998 Generated table #736@1: 1119 keys, 2124301 bytes
+2025/09/15-17:36:59.193 998 Compacted 1@1 + 0@2 files => 2124301 bytes
+2025/09/15-17:36:59.195 998 compacted to: files[ 0 5 4 0 0 0 0 ]
+2025/09/15-17:36:59.195 998 Delete type=2 #706
+2025/09/15-17:36:59.195 998 Manual compaction at level-1 from '!actors.items!RV0rsLVObnwXsm76.DiTDaMyu3XSOa0AB' @ 26257 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!aQGUoQvlDeSDx7iv.7S21fFeDdxmHHKvy' @ 27670 : 1
+2025/09/15-17:36:59.195 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.299 998 Generated table #737@1: 1086 keys, 2124338 bytes
+2025/09/15-17:36:59.299 998 Compacted 1@1 + 0@2 files => 2124338 bytes
+2025/09/15-17:36:59.302 998 compacted to: files[ 0 4 5 0 0 0 0 ]
+2025/09/15-17:36:59.302 998 Delete type=2 #707
+2025/09/15-17:36:59.302 998 Manual compaction at level-1 from '!actors.items!aQGUoQvlDeSDx7iv.7S21fFeDdxmHHKvy' @ 27670 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!gz68men2WWrhCT8z.dKSzNuPA2SUK81RD' @ 28556 : 1
+2025/09/15-17:36:59.302 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.393 998 Generated table #738@1: 1067 keys, 2122764 bytes
+2025/09/15-17:36:59.393 998 Compacted 1@1 + 0@2 files => 2122764 bytes
+2025/09/15-17:36:59.402 998 compacted to: files[ 0 3 6 0 0 0 0 ]
+2025/09/15-17:36:59.402 998 Delete type=2 #708
+2025/09/15-17:36:59.416 998 Manual compaction at level-1 from '!actors.items!gz68men2WWrhCT8z.dKSzNuPA2SUK81RD' @ 28556 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items!t9islOjpWOSDn6mu.eBOl5VHlws1TqjBi' @ 29677 : 1
+2025/09/15-17:36:59.416 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.544 998 Generated table #739@1: 1076 keys, 2124059 bytes
+2025/09/15-17:36:59.544 998 Compacted 1@1 + 0@2 files => 2124059 bytes
+2025/09/15-17:36:59.546 998 compacted to: files[ 0 2 7 0 0 0 0 ]
+2025/09/15-17:36:59.546 998 Delete type=2 #732
+2025/09/15-17:36:59.547 998 Manual compaction at level-1 from '!actors.items!t9islOjpWOSDn6mu.eBOl5VHlws1TqjBi' @ 29677 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!actors.items.effects!2uNtkVLnMF0vDWpG.s2lO4mzgmfOgeu5d.dNSELIYDQMBopj0Z' @ 31639 : 1
+2025/09/15-17:36:59.547 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.655 998 Generated table #740@1: 1120 keys, 2123031 bytes
+2025/09/15-17:36:59.655 998 Compacted 1@1 + 0@2 files => 2123031 bytes
+2025/09/15-17:36:59.657 998 compacted to: files[ 0 1 8 0 0 0 0 ]
+2025/09/15-17:36:59.657 998 Delete type=2 #733
+2025/09/15-17:36:59.658 998 Manual compaction at level-1 from '!actors.items.effects!2uNtkVLnMF0vDWpG.s2lO4mzgmfOgeu5d.dNSELIYDQMBopj0Z' @ 31639 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1
+2025/09/15-17:36:59.658 998 Compacting 1@1 + 0@2 files
+2025/09/15-17:36:59.671 998 Generated table #741@1: 360 keys, 118833 bytes
+2025/09/15-17:36:59.671 998 Compacted 1@1 + 0@2 files => 118833 bytes
+2025/09/15-17:36:59.673 998 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/09/15-17:36:59.673 998 Delete type=2 #734
+2025/09/15-17:36:59.685 998 Manual compaction at level-1 from '!folders!zdE6ta4YbUHGXY0i' @ 12895 : 1 .. '!folders!zdE6ta4YbUHGXY0i' @ 0 : 0; will stop at (end)
