@@ -1,13 +1,1 @@
-2025/09/15-17:35:44.892 4a50 Delete type=3 #1
-2025/09/15-17:36:59.923 998 Level-0 table #464: started
-2025/09/15-17:36:59.923 998 Level-0 table #464: 0 bytes OK
-2025/09/15-17:36:59.927 998 Delete type=0 #462
-2025/09/15-17:36:59.933 998 Manual compaction at level-0 from '!cards!nyaXliFqTjl48xch' @ 72057594037927935 : 1 .. '!cards.cards!uJu3EupMuR8XetHI.1MkKg6YAIoUff82A' @ 0 : 0; will stop at '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 147 : 1
-2025/09/15-17:36:59.933 998 Compacting 3@0 + 0@1 files
-2025/09/15-17:36:59.940 998 Generated table #465@0: 55 keys, 10090 bytes
-2025/09/15-17:36:59.940 998 Compacted 3@0 + 0@1 files => 10090 bytes
-2025/09/15-17:36:59.944 998 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/15-17:36:59.944 998 Delete type=2 #444
-2025/09/15-17:36:59.945 998 Delete type=2 #451
-2025/09/15-17:36:59.945 998 Delete type=2 #460
-2025/09/15-17:36:59.973 998 Manual compaction at level-0 from '!cards.cards!nyaXliFqTjl48xch.w8oqZWpmciSEM2ro' @ 147 : 1 .. '!cards.cards!uJu3EupMuR8XetHI.1MkKg6YAIoUff82A' @ 0 : 0; will stop at (end)
+2025/09/21-16:37:14.801 9e7c Delete type=3 #1

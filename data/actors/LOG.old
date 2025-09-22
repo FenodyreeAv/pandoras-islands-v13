@@ -1,15 +1,11 @@
-2025/09/15-17:35:44.786 4920 Delete type=3 #1
-2025/09/15-17:35:44.786 998 Compacting 4@0 + 0@1 files
-2025/09/15-17:35:44.824 998 Generated table #721@0: 1055 keys, 2122497 bytes
-2025/09/15-17:35:45.017 998 Generated table #722@0: 1215 keys, 2123931 bytes
-2025/09/15-17:35:45.102 998 Generated table #723@0: 1128 keys, 1680480 bytes
-2025/09/15-17:35:45.102 998 Compacted 4@0 + 0@1 files => 5926908 bytes
-2025/09/15-17:35:45.108 998 compacted to: files[ 0 3 0 0 0 0 0 ]
-2025/09/15-17:35:45.108 998 Delete type=2 #713
-2025/09/15-17:35:45.109 998 Delete type=2 #714
-2025/09/15-17:35:45.109 998 Delete type=2 #715
-2025/09/15-17:35:45.109 998 Delete type=2 #718
-2025/09/15-17:36:59.927 998 Level-0 table #725: started
-2025/09/15-17:36:59.927 998 Level-0 table #725: 0 bytes OK
-2025/09/15-17:36:59.929 998 Delete type=0 #720
-2025/09/15-17:36:59.945 998 Manual compaction at level-0 from '!actors!0MyLSTc2ltTc4UAV' @ 72057594037927935 : 1 .. '!actors.items.effects!vL2Jzk8j4Nb47hYZ.cctMUXgDTEVX6IKt.vfSQFxJ7Y3dc2ZFT' @ 0 : 0; will stop at (end)
+2025/09/21-16:37:14.628 7e08 Delete type=3 #1
+2025/09/21-16:37:14.629 8220 Compacting 4@0 + 0@1 files
+2025/09/21-16:37:14.687 8220 Generated table #743@0: 1043 keys, 2121558 bytes
+2025/09/21-16:37:14.741 8220 Generated table #744@0: 1176 keys, 2122601 bytes
+2025/09/21-16:37:14.786 8220 Generated table #745@0: 1192 keys, 1816918 bytes
+2025/09/21-16:37:14.787 8220 Compacted 4@0 + 0@1 files => 6061077 bytes
+2025/09/21-16:37:14.789 8220 compacted to: files[ 0 3 0 0 0 0 0 ]
+2025/09/21-16:37:14.789 8220 Delete type=2 #737
+2025/09/21-16:37:14.790 8220 Delete type=2 #738
+2025/09/21-16:37:14.791 8220 Delete type=2 #739
+2025/09/21-16:37:14.791 8220 Delete type=2 #740

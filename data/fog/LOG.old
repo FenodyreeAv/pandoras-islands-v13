@@ -1,11 +1,1 @@
-2025/09/15-17:35:45.034 48cc Delete type=3 #1
-2025/09/15-17:37:00.009 998 Level-0 table #510: started
-2025/09/15-17:37:00.009 998 Level-0 table #510: 0 bytes OK
-2025/09/15-17:37:00.018 998 Delete type=0 #508
-2025/09/15-17:37:00.044 998 Manual compaction at level-0 from '!fog!2Nurz88GW7GHGs8k' @ 72057594037927935 : 1 .. '!fog!yLjOc0Su0lOckvvN' @ 0 : 0; will stop at '!fog!yLjOc0Su0lOckvvN' @ 686 : 1
-2025/09/15-17:37:00.044 998 Compacting 1@0 + 0@1 files
-2025/09/15-17:37:00.052 998 Generated table #511@0: 26 keys, 865403 bytes
-2025/09/15-17:37:00.052 998 Compacted 1@0 + 0@1 files => 865403 bytes
-2025/09/15-17:37:00.056 998 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/15-17:37:00.056 998 Delete type=2 #490
-2025/09/15-17:37:00.092 998 Manual compaction at level-0 from '!fog!yLjOc0Su0lOckvvN' @ 686 : 1 .. '!fog!yLjOc0Su0lOckvvN' @ 0 : 0; will stop at (end)
+2025/09/21-16:37:15.153 9e7c Delete type=3 #1

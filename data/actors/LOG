@@ -1,33 +1,3 @@
-2025/09/15-17:53:09.332 171c Recovering log #724
-2025/09/15-17:53:09.343 171c Delete type=0 #724
-2025/09/15-17:53:09.344 171c Delete type=3 #719
-2025/09/15-17:53:33.686 39fc Level-0 table #729: started
-2025/09/15-17:53:33.752 39fc Level-0 table #729: 5928115 bytes OK
-2025/09/15-17:53:33.756 39fc Delete type=0 #727
-2025/09/15-17:56:26.198 39fc Level-0 table #731: started
-2025/09/15-17:56:26.265 39fc Level-0 table #731: 2116477 bytes OK
-2025/09/15-17:56:26.267 39fc Delete type=0 #728
-2025/09/15-17:56:26.281 39fc Compacting 2@0 + 3@1 files
-2025/09/15-17:56:26.318 39fc Generated table #732@0: 1045 keys, 2123322 bytes
-2025/09/15-17:56:26.352 39fc Generated table #733@0: 1184 keys, 2125050 bytes
-2025/09/15-17:56:26.442 39fc Generated table #734@0: 1173 keys, 1786831 bytes
-2025/09/15-17:56:26.442 39fc Compacted 2@0 + 3@1 files => 6035203 bytes
-2025/09/15-17:56:26.444 39fc compacted to: files[ 0 3 0 0 0 0 0 ]
-2025/09/15-17:56:26.444 39fc Delete type=2 #721
-2025/09/15-17:56:26.445 39fc Delete type=2 #722
-2025/09/15-17:56:26.445 39fc Delete type=2 #723
-2025/09/15-17:56:26.445 39fc Delete type=2 #729
-2025/09/15-17:56:26.446 39fc Delete type=2 #731
-2025/09/15-18:52:24.085 39fc Level-0 table #736: started
-2025/09/15-18:52:24.147 39fc Level-0 table #736: 2216950 bytes OK
-2025/09/15-18:52:24.150 39fc Delete type=0 #730
-2025/09/15-18:52:24.679 39fc Compacting 1@0 + 3@1 files
-2025/09/15-18:52:24.714 39fc Generated table #737@0: 1042 keys, 2122454 bytes
-2025/09/15-18:52:24.815 39fc Generated table #738@0: 1178 keys, 2124322 bytes
-2025/09/15-18:52:24.904 39fc Generated table #739@0: 1178 keys, 1799365 bytes
-2025/09/15-18:52:24.904 39fc Compacted 1@0 + 3@1 files => 6046141 bytes
-2025/09/15-18:52:24.907 39fc compacted to: files[ 0 3 0 0 0 0 0 ]
-2025/09/15-18:52:24.907 39fc Delete type=2 #732
-2025/09/15-18:52:24.907 39fc Delete type=2 #733
-2025/09/15-18:52:24.908 39fc Delete type=2 #734
-2025/09/15-18:52:24.908 39fc Delete type=2 #736
+2025/09/22-16:31:08.410 1ecc Recovering log #742
+2025/09/22-16:31:08.419 1ecc Delete type=0 #742
+2025/09/22-16:31:08.419 1ecc Delete type=3 #741

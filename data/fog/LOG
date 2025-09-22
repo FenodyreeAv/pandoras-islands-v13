@@ -1,20 +1,3 @@
-2025/09/15-17:53:09.438 171c Recovering log #509
-2025/09/15-17:53:09.450 171c Delete type=0 #509
-2025/09/15-17:53:09.450 171c Delete type=3 #507
-2025/09/15-18:55:52.385 39fc Level-0 table #515: started
-2025/09/15-18:55:52.398 39fc Level-0 table #515: 843458 bytes OK
-2025/09/15-18:55:52.402 39fc Delete type=0 #513
-2025/09/15-18:59:15.483 39fc Level-0 table #517: started
-2025/09/15-18:59:15.496 39fc Level-0 table #517: 883338 bytes OK
-2025/09/15-18:59:15.501 39fc Delete type=0 #514
-2025/09/15-19:34:15.677 39fc Level-0 table #519: started
-2025/09/15-19:34:15.709 39fc Level-0 table #519: 878929 bytes OK
-2025/09/15-19:34:15.730 39fc Delete type=0 #516
-2025/09/15-20:41:42.056 39fc Compacting 3@0 + 1@1 files
-2025/09/15-20:41:42.071 39fc Generated table #520@0: 27 keys, 1132321 bytes
-2025/09/15-20:41:42.071 39fc Compacted 3@0 + 1@1 files => 1132321 bytes
-2025/09/15-20:41:42.075 39fc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/15-20:41:42.075 39fc Delete type=2 #511
-2025/09/15-20:41:42.076 39fc Delete type=2 #515
-2025/09/15-20:41:42.076 39fc Delete type=2 #517
-2025/09/15-20:41:42.076 39fc Delete type=2 #519
+2025/09/22-16:31:08.666 24b8 Recovering log #523
+2025/09/22-16:31:08.673 24b8 Delete type=0 #523
+2025/09/22-16:31:08.673 24b8 Delete type=3 #522
