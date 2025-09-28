@@ -1,5 +1,6 @@
-2025/09/21-16:37:15.842 5354 Delete type=3 #1
-2025/09/21-16:37:16.430 8220 Compacting 2@0 + 0@1 files
-2025/09/21-16:37:16.457 8220 Generated table #651@0: 1529 keys, 649539 bytes
-2025/09/21-16:37:16.457 8220 Compacted 2@0 + 0@1 files => 649539 bytes
-2025/09/21-16:37:16.460 8220 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/22-17:02:11.183 2628 Log #653: 28 ops saved to Table #654 OK
+2025/09/22-17:02:11.184 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/scenes/000653.log: OK
+2025/09/22-17:02:11.186 2628 Table #651: 1529 entries OK
+2025/09/22-17:02:11.186 2628 Table #654: 28 entries OK
+2025/09/22-17:02:11.190 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/scenes/MANIFEST-000652: OK
+2025/09/22-17:02:11.198 2628 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/scenes; recovered 2 files; 667043 bytes. Some data may have been lost. ****

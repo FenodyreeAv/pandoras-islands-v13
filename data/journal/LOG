@@ -1,11 +1,1 @@
-2025/09/22-16:31:08.850 1ecc Recovering log #627
-2025/09/22-16:31:08.851 1ecc Level-0 table #630: started
-2025/09/22-16:31:08.859 1ecc Level-0 table #630: 148669 bytes OK
-2025/09/22-16:31:08.867 1ecc Delete type=0 #627
-2025/09/22-16:31:08.868 1ecc Delete type=3 #626
-2025/09/22-16:31:09.500 4a8c Compacting 1@0 + 1@1 files
-2025/09/22-16:31:09.520 4a8c Generated table #632@0: 996 keys, 709497 bytes
-2025/09/22-16:31:09.520 4a8c Compacted 1@0 + 1@1 files => 709497 bytes
-2025/09/22-16:31:09.522 4a8c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/22-16:31:09.522 4a8c Delete type=2 #628
-2025/09/22-16:31:09.523 4a8c Delete type=2 #630
+2025/09/22-17:02:11.076 2628 Delete type=3 #1

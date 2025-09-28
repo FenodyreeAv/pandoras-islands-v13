@@ -1,11 +1,8 @@
-2025/09/21-16:37:14.628 7e08 Delete type=3 #1
-2025/09/21-16:37:14.629 8220 Compacting 4@0 + 0@1 files
-2025/09/21-16:37:14.687 8220 Generated table #743@0: 1043 keys, 2121558 bytes
-2025/09/21-16:37:14.741 8220 Generated table #744@0: 1176 keys, 2122601 bytes
-2025/09/21-16:37:14.786 8220 Generated table #745@0: 1192 keys, 1816918 bytes
-2025/09/21-16:37:14.787 8220 Compacted 4@0 + 0@1 files => 6061077 bytes
-2025/09/21-16:37:14.789 8220 compacted to: files[ 0 3 0 0 0 0 0 ]
-2025/09/21-16:37:14.789 8220 Delete type=2 #737
-2025/09/21-16:37:14.790 8220 Delete type=2 #738
-2025/09/21-16:37:14.791 8220 Delete type=2 #739
-2025/09/21-16:37:14.791 8220 Delete type=2 #740
+2025/09/22-17:02:10.727 2628 Log #747: 111 ops saved to Table #748 OK
+2025/09/22-17:02:10.727 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/actors/000747.log: OK
+2025/09/22-17:02:10.733 2628 Table #743: 1043 entries OK
+2025/09/22-17:02:10.740 2628 Table #744: 1176 entries OK
+2025/09/22-17:02:10.744 2628 Table #745: 1192 entries OK
+2025/09/22-17:02:10.745 2628 Table #748: 111 entries OK
+2025/09/22-17:02:10.750 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/actors/MANIFEST-000746: OK
+2025/09/22-17:02:10.757 2628 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/actors; recovered 4 files; 6351123 bytes. Some data may have been lost. ****

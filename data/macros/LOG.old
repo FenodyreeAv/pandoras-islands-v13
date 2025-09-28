@@ -1,1 +1,6 @@
-2025/09/21-16:37:15.582 5354 Delete type=3 #1
+2025/09/22-17:02:11.085 2628 Log #484: 0 ops saved to Table #485 OK
+2025/09/22-17:02:11.085 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/macros/000484.log: OK
+2025/09/22-17:02:11.085 2628 Table #477: 18 entries OK
+2025/09/22-17:02:11.085 2628 Table #480: 5 entries OK
+2025/09/22-17:02:11.090 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/macros/MANIFEST-000483: OK
+2025/09/22-17:02:11.097 2628 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/macros; recovered 2 files; 5141 bytes. Some data may have been lost. ****

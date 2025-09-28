@@ -1,1 +1,4 @@
-2025/09/21-16:37:15.628 5354 Delete type=3 #1
+2025/09/22-17:02:11.114 40c8 Log #464: 0 ops saved to Table #465 OK
+2025/09/22-17:02:11.115 40c8 Archiving ../Data/worlds/pandoras-islands-v13/data/playlists/000464.log: OK
+2025/09/22-17:02:11.119 40c8 Archiving ../Data/worlds/pandoras-islands-v13/data/playlists/MANIFEST-000463: OK
+2025/09/22-17:02:11.126 40c8 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****

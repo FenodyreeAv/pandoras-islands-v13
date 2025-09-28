@@ -1,1 +1,6 @@
-2025/09/21-16:37:15.017 7e08 Delete type=3 #1
+2025/09/22-17:02:10.912 40c8 Log #493: 0 ops saved to Table #494 OK
+2025/09/22-17:02:10.912 40c8 Archiving ../Data/worlds/pandoras-islands-v13/data/combats/000493.log: OK
+2025/09/22-17:02:10.912 40c8 Table #486: 2 entries OK
+2025/09/22-17:02:10.912 40c8 Table #489: 2 entries OK
+2025/09/22-17:02:10.917 40c8 Archiving ../Data/worlds/pandoras-islands-v13/data/combats/MANIFEST-000492: OK
+2025/09/22-17:02:10.924 40c8 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/combats; recovered 2 files; 1221 bytes. Some data may have been lost. ****
