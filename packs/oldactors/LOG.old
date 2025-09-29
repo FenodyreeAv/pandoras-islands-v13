@@ -1,13 +1,3 @@
-2025/09/22-17:02:11.700 2628 Log #834: 0 ops saved to Table #835 OK
-2025/09/22-17:02:11.701 2628 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/000834.log: OK
-2025/09/22-17:02:11.707 2628 Table #824: 764 entries OK
-2025/09/22-17:02:11.716 2628 Table #825: 917 entries OK
-2025/09/22-17:02:11.722 2628 Table #826: 978 entries OK
-2025/09/22-17:02:11.730 2628 Table #827: 947 entries OK
-2025/09/22-17:02:11.735 2628 Table #828: 1037 entries OK
-2025/09/22-17:02:11.741 2628 Table #829: 910 entries OK
-2025/09/22-17:02:11.746 2628 Table #830: 1004 entries OK
-2025/09/22-17:02:11.751 2628 Table #831: 972 entries OK
-2025/09/22-17:02:11.755 2628 Table #832: 1208 entries OK
-2025/09/22-17:02:11.758 2628 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/MANIFEST-000833: OK
-2025/09/22-17:02:11.766 2628 **** Repaired leveldb ..\Data\worlds\pandoras-islands-v13\packs\oldactors; recovered 9 files; 18893370 bytes. Some data may have been lost. ****
+2025/09/28-22:12:04.886 5114 Recovering log #837
+2025/09/28-22:12:04.896 5114 Delete type=0 #837
+2025/09/28-22:12:04.896 5114 Delete type=3 #836

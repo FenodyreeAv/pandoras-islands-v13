@@ -1,5 +1,5 @@
-2025/09/22-17:02:11.259 2628 Delete type=3 #1
-2025/09/22-17:03:55.136 173c Compacting 3@0 + 0@1 files
-2025/09/22-17:03:55.160 173c Generated table #686@0: 362 keys, 819722 bytes
-2025/09/22-17:03:55.160 173c Compacted 3@0 + 0@1 files => 819722 bytes
-2025/09/22-17:03:55.163 173c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/29-15:03:30.133 3f9c Recovering log #689
+2025/09/29-15:03:30.133 3f9c Level-0 table #692: started
+2025/09/29-15:03:30.144 3f9c Level-0 table #692: 2837 bytes OK
+2025/09/29-15:03:30.156 3f9c Delete type=0 #689
+2025/09/29-15:03:30.156 3f9c Delete type=3 #687

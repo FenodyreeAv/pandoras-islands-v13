@@ -1,6 +1,5 @@
-2025/09/22-17:02:11.009 2628 Log #489: 0 ops saved to Table #490 OK
-2025/09/22-17:02:11.009 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/items/000489.log: OK
-2025/09/22-17:02:11.010 2628 Table #482: 442 entries OK
-2025/09/22-17:02:11.011 2628 Table #485: 450 entries OK
-2025/09/22-17:02:11.017 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/items/MANIFEST-000488: OK
-2025/09/22-17:02:11.025 2628 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/items; recovered 2 files; 598482 bytes. Some data may have been lost. ****
+2025/09/28-22:12:04.106 4604 Recovering log #492
+2025/09/28-22:12:04.108 4604 Level-0 table #494: started
+2025/09/28-22:12:04.120 4604 Level-0 table #494: 300737 bytes OK
+2025/09/28-22:12:04.133 4604 Delete type=0 #492
+2025/09/28-22:12:04.133 4604 Delete type=3 #491

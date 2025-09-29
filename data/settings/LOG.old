@@ -1,7 +1,14 @@
-2025/09/22-17:02:11.230 2628 Log #682: 15 ops saved to Table #683 OK
-2025/09/22-17:02:11.231 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/settings/000682.log: OK
-2025/09/22-17:02:11.234 2628 Table #679: 362 entries OK
-2025/09/22-17:02:11.234 2628 Table #681: 3 entries OK
-2025/09/22-17:02:11.234 2628 Table #683: 15 entries OK
-2025/09/22-17:02:11.239 2628 Archiving ../Data/worlds/pandoras-islands-v13/data/settings/MANIFEST-000680: OK
-2025/09/22-17:02:11.246 2628 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/settings; recovered 3 files; 906927 bytes. Some data may have been lost. ****
+2025/09/28-22:12:04.417 4604 Recovering log #685
+2025/09/28-22:12:04.417 4604 Level-0 table #688: started
+2025/09/28-22:12:04.423 4604 Level-0 table #688: 36856 bytes OK
+2025/09/28-22:12:04.433 4604 Delete type=2 #679
+2025/09/28-22:12:04.434 4604 Delete type=2 #681
+2025/09/28-22:12:04.434 4604 Delete type=2 #683
+2025/09/28-22:12:04.434 4604 Delete type=0 #685
+2025/09/28-22:12:04.434 4604 Delete type=3 #684
+2025/09/28-22:12:04.855 ca0 Compacting 1@0 + 1@1 files
+2025/09/28-22:12:04.875 ca0 Generated table #690@0: 367 keys, 826814 bytes
+2025/09/28-22:12:04.875 ca0 Compacted 1@0 + 1@1 files => 826814 bytes
+2025/09/28-22:12:04.879 ca0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/28-22:12:04.879 ca0 Delete type=2 #686
+2025/09/28-22:12:04.880 ca0 Delete type=2 #688
