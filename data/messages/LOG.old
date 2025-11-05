@@ -1,3 +1,7 @@
-2025/11/02-14:33:41.241 2bbc Recovering log #630
-2025/11/02-14:33:41.248 2bbc Delete type=0 #630
-2025/11/02-14:33:41.248 2bbc Delete type=3 #629
+2025/11/03-17:47:05.008 53a0 Log #634: 0 ops saved to Table #635 OK
+2025/11/03-17:47:05.008 53a0 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/000634.log: OK
+2025/11/03-17:47:05.017 53a0 Table #618: 1010 entries OK
+2025/11/03-17:47:05.020 53a0 Table #620: 105 entries OK
+2025/11/03-17:47:05.024 53a0 Table #626: 1165 entries OK
+2025/11/03-17:47:05.029 53a0 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/MANIFEST-000633: OK
+2025/11/03-17:47:05.036 53a0 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/messages; recovered 3 files; 2473999 bytes. Some data may have been lost. ****

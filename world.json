@@ -9,7 +9,7 @@
     "verified": "13.348"
   },
   "systemVersion": "5.1.10",
-  "lastPlayed": "Mon Nov 03 2025 18:34:48 GMT+0100 (sentraleuropeisk normaltid)",
+  "lastPlayed": "Mon Nov 03 2025 17:47:05 GMT+0000 (Greenwich Mean Time)",
   "packs": [
     {
       "label": "OldActors",
@@ -51,5 +51,6 @@
   "playtime": 74495,
   "description": "<p>What is it you all wish for? Fame, money, glamour, hot chicks and men? It all can happen in this part of the world. From the high tides of the sea to the thick, and brushy jungle deep in the Yuan-ti area. You all can trust each other, trust other people you have met or about to meet, or… You can cold blooded kill each other. After all, these are the seas of the pirate kings and queens! You are treading on deep water, my friends.</p>",
   "background": "worlds/plom/Patus.jpg",
-  "resetKeys": false
+  "resetKeys": false,
+  "flags": {}
 }

@@ -1,3 +1,11 @@
-2025/11/03-18:34:48.944 6968 Recovering log #889
-2025/11/03-18:34:48.949 6968 Delete type=0 #889
-2025/11/03-18:34:48.949 6968 Delete type=3 #888
+2025/11/03-17:47:06.533 4a44 Delete type=3 #1
+2025/11/03-17:47:06.535 52f0 Moved #873 to level-1 2123535 bytes OK: files[ 9 1 0 0 0 0 0 ]
+2025/11/03-17:47:06.537 52f0 Moved #874 to level-1 2123063 bytes OK: files[ 8 2 0 0 0 0 0 ]
+2025/11/03-17:47:06.539 52f0 Moved #875 to level-1 2124930 bytes OK: files[ 7 3 0 0 0 0 0 ]
+2025/11/03-17:47:06.541 52f0 Moved #876 to level-1 2125619 bytes OK: files[ 6 4 0 0 0 0 0 ]
+2025/11/03-17:47:06.543 52f0 Moved #877 to level-1 2125368 bytes OK: files[ 5 5 0 0 0 0 0 ]
+2025/11/03-17:47:06.545 52f0 Moved #878 to level-1 2124994 bytes OK: files[ 4 6 0 0 0 0 0 ]
+2025/11/03-17:47:06.547 52f0 Moved #873 to level-2 2123535 bytes OK: files[ 4 5 1 0 0 0 0 ]
+2025/11/03-17:47:06.549 52f0 Moved #874 to level-2 2123063 bytes OK: files[ 4 4 2 0 0 0 0 ]
+2025/11/03-17:47:06.551 52f0 Moved #879 to level-1 2125640 bytes OK: files[ 3 5 2 0 0 0 0 ]
+2025/11/03-17:47:06.553 52f0 Moved #875 to level-2 2124930 bytes OK: files[ 3 4 3 0 0 0 0 ]

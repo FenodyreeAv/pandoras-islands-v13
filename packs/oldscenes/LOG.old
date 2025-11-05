@@ -1,3 +1,6 @@
-2025/11/02-14:33:43.263 73b8 Recovering log #518
-2025/11/02-14:33:43.270 73b8 Delete type=0 #518
-2025/11/02-14:33:43.270 73b8 Delete type=3 #517
+2025/11/03-17:47:06.682 53a0 Log #522: 0 ops saved to Table #523 OK
+2025/11/03-17:47:06.682 53a0 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldscenes/000522.log: OK
+2025/11/03-17:47:06.697 53a0 Table #512: 4410 entries OK
+2025/11/03-17:47:06.746 53a0 Table #513: 5108 entries OK
+2025/11/03-17:47:06.751 53a0 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldscenes/MANIFEST-000521: OK
+2025/11/03-17:47:06.758 53a0 **** Repaired leveldb ..\Data\worlds\pandoras-islands-v13\packs\oldscenes; recovered 2 files; 2845204 bytes. Some data may have been lost. ****
