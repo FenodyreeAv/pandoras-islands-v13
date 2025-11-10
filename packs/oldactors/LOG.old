@@ -1,14 +1,11 @@
-2025/11/03-17:47:05.911 4a44 Log #891: 0 ops saved to Table #892 OK
-2025/11/03-17:47:05.912 4a44 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/000891.log: OK
-2025/11/03-17:47:05.925 4a44 Table #873: 758 entries OK
-2025/11/03-17:47:06.023 4a44 Table #874: 974 entries OK
-2025/11/03-17:47:06.104 4a44 Table #875: 1002 entries OK
-2025/11/03-17:47:06.166 4a44 Table #876: 988 entries OK
-2025/11/03-17:47:06.239 4a44 Table #877: 1058 entries OK
-2025/11/03-17:47:06.325 4a44 Table #878: 916 entries OK
-2025/11/03-17:47:06.408 4a44 Table #879: 1033 entries OK
-2025/11/03-17:47:06.420 4a44 Table #880: 1011 entries OK
-2025/11/03-17:47:06.478 4a44 Table #881: 1017 entries OK
-2025/11/03-17:47:06.509 4a44 Table #882: 808 entries OK
-2025/11/03-17:47:06.512 4a44 Archiving ..\Data\worlds\pandoras-islands-v13\packs\oldactors/MANIFEST-000890: OK
-2025/11/03-17:47:06.520 4a44 **** Repaired leveldb ..\Data\worlds\pandoras-islands-v13\packs\oldactors; recovered 10 files; 19927738 bytes. Some data may have been lost. ****
+2025/11/10-00:53:23.828 1b7c Delete type=3 #1
+2025/11/10-00:53:23.830 2df0 Moved #873 to level-1 2123535 bytes OK: files[ 9 1 0 0 0 0 0 ]
+2025/11/10-00:53:23.831 2df0 Moved #874 to level-1 2123063 bytes OK: files[ 8 2 0 0 0 0 0 ]
+2025/11/10-00:53:23.832 2df0 Moved #875 to level-1 2124930 bytes OK: files[ 7 3 0 0 0 0 0 ]
+2025/11/10-00:53:23.834 2df0 Moved #876 to level-1 2125619 bytes OK: files[ 6 4 0 0 0 0 0 ]
+2025/11/10-00:53:23.835 2df0 Moved #877 to level-1 2125368 bytes OK: files[ 5 5 0 0 0 0 0 ]
+2025/11/10-00:53:23.836 2df0 Moved #878 to level-1 2124994 bytes OK: files[ 4 6 0 0 0 0 0 ]
+2025/11/10-00:53:23.837 2df0 Moved #873 to level-2 2123535 bytes OK: files[ 4 5 1 0 0 0 0 ]
+2025/11/10-00:53:23.839 2df0 Moved #874 to level-2 2123063 bytes OK: files[ 4 4 2 0 0 0 0 ]
+2025/11/10-00:53:23.840 2df0 Moved #879 to level-1 2125640 bytes OK: files[ 3 5 2 0 0 0 0 ]
+2025/11/10-00:53:23.842 2df0 Moved #875 to level-2 2124930 bytes OK: files[ 3 4 3 0 0 0 0 ]

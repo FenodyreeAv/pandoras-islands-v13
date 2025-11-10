@@ -1,7 +1,9 @@
-2025/11/03-17:47:05.008 53a0 Log #634: 0 ops saved to Table #635 OK
-2025/11/03-17:47:05.008 53a0 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/000634.log: OK
-2025/11/03-17:47:05.017 53a0 Table #618: 1010 entries OK
-2025/11/03-17:47:05.020 53a0 Table #620: 105 entries OK
-2025/11/03-17:47:05.024 53a0 Table #626: 1165 entries OK
-2025/11/03-17:47:05.029 53a0 Archiving ../Data/worlds/pandoras-islands-v13/data/messages/MANIFEST-000633: OK
-2025/11/03-17:47:05.036 53a0 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/messages; recovered 3 files; 2473999 bytes. Some data may have been lost. ****
+2025/11/10-00:53:21.512 7f14 Delete type=3 #1
+2025/11/10-00:53:21.633 2df0 Compacting 4@0 + 0@1 files
+2025/11/10-00:53:21.681 2df0 Generated table #641@0: 1200 keys, 1264941 bytes
+2025/11/10-00:53:21.681 2df0 Compacted 4@0 + 0@1 files => 1264941 bytes
+2025/11/10-00:53:21.684 2df0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/11/10-00:53:21.684 2df0 Delete type=2 #618
+2025/11/10-00:53:21.684 2df0 Delete type=2 #620
+2025/11/10-00:53:21.685 2df0 Delete type=2 #626
+2025/11/10-00:53:21.685 2df0 Delete type=2 #638

@@ -1,4 +1,1 @@
-2025/11/03-17:47:05.309 53f0 Log #498: 0 ops saved to Table #499 OK
-2025/11/03-17:47:05.310 53f0 Archiving ../Data/worlds/pandoras-islands-v13/data/playlists/000498.log: OK
-2025/11/03-17:47:05.315 53f0 Archiving ../Data/worlds/pandoras-islands-v13/data/playlists/MANIFEST-000497: OK
-2025/11/03-17:47:05.322 53f0 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/11/10-00:53:22.000 1b7c Delete type=3 #1

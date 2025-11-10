@@ -1,7 +1,1 @@
-2025/11/03-17:47:05.104 50ac Log #561: 0 ops saved to Table #562 OK
-2025/11/03-17:47:05.105 50ac Archiving ../Data/worlds/pandoras-islands-v13/data/fog/000561.log: OK
-2025/11/03-17:47:05.113 50ac Table #529: 27 entries OK
-2025/11/03-17:47:05.119 50ac Table #546: 8 entries OK
-2025/11/03-17:47:05.119 50ac Table #560: 1 entries OK
-2025/11/03-17:47:05.124 50ac Archiving ../Data/worlds/pandoras-islands-v13/data/fog/MANIFEST-000559: OK
-2025/11/03-17:47:05.131 50ac **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/fog; recovered 3 files; 1147444 bytes. Some data may have been lost. ****
+2025/11/10-00:53:21.682 1b7c Delete type=3 #1

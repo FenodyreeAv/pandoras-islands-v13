@@ -1,7 +1,1 @@
-2025/11/03-17:47:05.062 4a44 Log #531: 0 ops saved to Table #532 OK
-2025/11/03-17:47:05.063 4a44 Archiving ../Data/worlds/pandoras-islands-v13/data/combats/000531.log: OK
-2025/11/03-17:47:05.071 4a44 Table #508: 18 entries OK
-2025/11/03-17:47:05.072 4a44 Table #514: 154 entries OK
-2025/11/03-17:47:05.072 4a44 Table #523: 3 entries OK
-2025/11/03-17:47:05.078 4a44 Archiving ../Data/worlds/pandoras-islands-v13/data/combats/MANIFEST-000530: OK
-2025/11/03-17:47:05.085 4a44 **** Repaired leveldb ../Data/worlds/pandoras-islands-v13/data/combats; recovered 3 files; 22574 bytes. Some data may have been lost. ****
+2025/11/10-00:53:21.602 5c14 Delete type=3 #1
